@@ -1,0 +1,71 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Reworkd",
+  "logo": {
+    "dark": "/logo/logolight.png",
+    "light": "/logo/logodark.png",
+    "href": ""
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#808080",
+    "light": "#FFFFFF",
+    "dark": "#000000",
+    "background": {
+      "dark": "#000000",
+      "light": "#FFFFFF"
+    }
+  },
+
+
+  "topbarCtaButton": {
+    "type": "github",
+    "url": ""
+  },
+
+  "anchors": [
+    {
+      "name":"NATAI",
+      "icon":"user-ninja",
+      "url": "https://"
+    },
+    {
+      "name": "GitHub",
+      "icon": "github",
+      "url": 
+    },
+    {
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://"
+    }
+  ],
+
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": ["introduction"]
+    },
+    {
+      "group": "Development",
+      "pages": ["development/setup", "development/prompts", "development/memory", "development/translations",  "development/auth"]
+    },
+    {
+      "group": "Essentials",
+      "pages": ["essentials/roadmap", "essentials/FAQ", "essentials/usecases", "essentials/contributing"]
+    },
+    {
+      "group": "Other",
+      "pages": ["other/philosophy"]
+    }
+  ],
+
+  "footerSocials": {
+    "github": "https://github.com/NatAINetwork",
+    "discord": "https://",
+    "twitter": "https://twitter.com/NatAINetwork",
+    "linkedin": "https://"
+  },
+
+  "backgroundImage": "/background.png"
+}
