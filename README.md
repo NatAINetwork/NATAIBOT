@@ -6,7 +6,7 @@ Before you get started, please make sure you have the following installed:
 - [Node.js](https://nodejs.org/en/download)
 - [Git](https://git-scm.com/downloads)
 - [Docker](https://www.docker.com/products/docker-desktop) (optional) After installation, please create an account, open up the Docker application, and sign in.
-- An [OpenAI API key](https://platform.openai.com/signup) We provied limited usage to our holders.
+- An [OpenAI API key](https://platform.openai.com/signup) We provide limited usage to our holders.
 - A [Serper API Key](https://serper.dev/signup) (optional)
 - A [Replicate API Token](https://replicate.com/signin) (optional)
 
